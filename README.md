@@ -52,7 +52,10 @@ To stop it:
 
 ---
 
+## 📄 License
 
-## Developer
+Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
 
-Developed by **Ziad Shalaby**
+This project is licensed under the **MIT License**.
+
+---
