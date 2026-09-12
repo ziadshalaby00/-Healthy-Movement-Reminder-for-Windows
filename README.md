@@ -6,6 +6,8 @@ The program runs silently in the background and plays a customizable alarm sound
 
 It also automatically starts with Windows and continues running until manually disabled.
 
+![s](Screenshot_2.png)
+
 ---
 
 ## ✨ Features
