@@ -52,12 +52,5 @@ To stop it:
 - Open the app again
 - Click **Disable**
 
----
-
-## 📄 License
-
-Developed entirely by [Ziad Shalaby](https://github.com/ziadshalaby00).
-
-This project is licensed under the **MIT License**.
 
 ---
